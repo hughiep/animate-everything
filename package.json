@@ -37,7 +37,7 @@
     "wagmi": "^2.14.3"
   },
   "devDependencies": {
-    "@eslint/compat": "^1.2.4",
+    "@eslint/compat": "^1.2.8",
     "@eslint/eslintrc": "^3.2.0",
     "@eslint/js": "^9.17.0",
     "@types/loadable__component": "^5.13.9",
